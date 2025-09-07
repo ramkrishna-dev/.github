@@ -1,7 +1,7 @@
 # Hi there, I'm RamKrishna 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/ramkrishna-dev?style=social)](https://github.com/ramkrishna-dev)
-[![Twitter](https://img.shields.io/twitter/follow/ramkrishna_dev?style=social)](https://twitter.com/ramkrishna_dev)
+[![Twitter](https://img.shields.io/twitter/follow/ramkrishna_dev?style=social)](https://twitter.com/ramkrishna_xyz)
 
 ---
 
@@ -69,7 +69,7 @@ I’m a passionate **Full Stack Developer** & **Software Engineer** with experie
 ## 📫 Contact Me
 
 - Email: [ramkrishnaspace@gmail.com](mailto:ramkrishnaspace@gmail.com).
-- Twitter: [@ramkrishna_dev](https://twitter.com/ramkrishna_dev)
+- Twitter: [@ramkrishna_dev](https://twitter.com/ramkrishna_xyz)
 
 ---
 
