@@ -52,10 +52,7 @@ I’m a passionate **Full Stack Developer** & **Software Engineer** with experie
 
 ## 📈 GitHub Stats
 
-![ramkrishna-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramkrishna-dev&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramkrishna-dev&layout=compact&theme=radical)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=ramkrishna-dev&theme=dark-minimalist)](https://git.io/streak-stats)
 ---
 
 ## 💼 Projects
